@@ -1,0 +1,110 @@
+_____  ____  ___   _          __     __    _     __   
+ | |  | |_  | |_) | |\/|     / /`   / /\  | |   / /`  
+ |_|  |_|__ |_| \ |_|  |     \_\_, /_/--\ |_|__ \_\_,
+=MENU================================================
+= 1. EXIT  2. WHY  3. ADD  4. SUBTRACT  5. MULTIPLY =
+=        6. DIVIDE  7. SQUARE ROOT  8. POWER        =
+=====================================================
+
+=WHY=================================================
+=                                                   =
+=         Many that have used Term Calc ask         =
+=               "Why does this exist"               =
+=   Heres the why... I simply wanted to learn and   =
+=   experiment with C programming. This is a very   =
+=  basic starter program I am making to get a feel  =
+=   for the language and understand how it works.   =
+=                                                   =
+=====================================================
+
+
+=ADDITION============================================
+=                                                   =
+=                     ADDITION:                     =
+=              FORMAT: NUMBER1 NUMBER2              =
+=                                                   =
+=                       NOTE:                       =
+=     IF YOU GET A NUMBER THAT SEEMS BUNK... IT     =
+=   PROBABLY IS... LARGE NUMBERS LIKE TO OVERFLOW   =
+=  THE LONG INTEGER OR LONG DOUBLE THAT I USED FOR  =
+=           INPUT AND/OR OUTPUT. SORRY :(           =
+=                                                   =
+=====================================================
+
+=SUBTRACTION=========================================
+=                                                   =
+=                    SUBTRACTION                    =
+=              FORMAT: NUMBER1 NUMBER2              =
+=                                                   =
+=                       NOTE:                       =
+=     IF YOU GET A NUMBER THAT SEEMS BUNK... IT     =
+=   PROBABLY IS... LARGE NUMBERS LIKE TO OVERFLOW   =
+=  THE LONG INTEGER OR LONG DOUBLE THAT I USED FOR  =
+=           INPUT AND/OR OUTPUT. SORRY :(           =
+=                                                   =
+=====================================================
+
+=MULTIPLICATION======================================
+=                                                   =
+=                  MULTIPLICATION:                  =
+=              FORMAT: NUMBER1 NUMBER2              =
+=                                                   =
+=                       NOTE:                       =
+=     IF YOU GET A NUMBER THAT SEEMS BUNK... IT     =
+=   PROBABLY IS... LARGE NUMBERS LIKE TO OVERFLOW   =
+=  THE LONG INTEGER OR LONG DOUBLE THAT I USED FOR  =
+=           INPUT AND/OR OUTPUT. SORRY :(           =
+=                                                   =
+=====================================================
+
+=DIVISION============================================
+=                                                   =
+=                     DIVISION:                     =
+=              FORMAT: NUMBER1 NUMBER2              =
+=                                                   =
+=                       NOTE:                       =
+=     IF YOU GET A NUMBER THAT SEEMS BUNK... IT     =
+=   PROBABLY IS... LARGE NUMBERS LIKE TO OVERFLOW   =
+=  THE LONG INTEGER OR LONG DOUBLE THAT I USED FOR  =
+=           INPUT AND/OR OUTPUT. SORRY :(           =
+=                                                   =
+=====================================================
+
+=SQUAREROOT==========================================
+=                                                   =
+=                    SQUAREROOT:                    =
+=                  FORMAT: NUMBER1                  =
+=                                                   =
+=                       NOTE:                       =
+=     IF YOU GET A NUMBER THAT SEEMS BUNK... IT     =
+=   PROBABLY IS... LARGE NUMBERS LIKE TO OVERFLOW   =
+=  THE LONG INTEGER OR LONG DOUBLE THAT I USED FOR  =
+=           INPUT AND/OR OUTPUT. SORRY :(           =
+=                                                   =
+=====================================================
+
+=POWER===============================================
+=                                                   =
+=                       POWER                       =
+=               FORMAT: NUMBER1 POWER               =
+=                                                   =
+=                       NOTE:                       =
+=     IF YOU GET A NUMBER THAT SEEMS BUNK... IT     =
+=   PROBABLY IS... LARGE NUMBERS LIKE TO OVERFLOW   =
+=  THE LONG INTEGER OR LONG DOUBLE THAT I USED FOR  =
+=           INPUT AND/OR OUTPUT. SORRY :(           =
+=                                                   =
+=====================================================
+
+=EXIT================================================
+=                                                   =
+=       THANKS FOR USING TERM CALC... GOODBYE       =
+=                                                   =
+=====================================================
+
+=INPUT_ERROR=========================================
+=                                                   =
+=                BAD INPUT DETECTED!                =
+=             PLEASE RESTART TERM CALC.             =
+=                                                   =
+=====================================================

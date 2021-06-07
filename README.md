@@ -13,7 +13,8 @@ USAGE:
 
 FILES:  
 * a.out  -> MacOS & Linux precompiled version of calculator 
-* main.c -> Main calculator code * menues.txt -> Text file to show all menus 
+* main.c -> Main calculator code 
+* menus.txt -> Text file to show all menus 
 * text.h -> heder file containing all the menus used in Term Calc. Used to simply clean up the code.
 
 _Origional code written by Remington Holder 2021.  

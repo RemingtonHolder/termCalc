@@ -5,7 +5,7 @@ _____  ____  ___   _          __     __    _     __
 ```
 ***
 ### Term Calc, the small, simple, and fast terminal calulator.
-A simple calculator made for all those "terminal drellers" that want to do simple calculations.
+A simple calculator made for all those "terminal dwellers" that want to do simple calculations.
 
 USAGE:  
 * I encourage you to redistribute this and improve it in anyway you can, if you have any improvements you want me to add just submit a pull request or issue _No templates needed_.
@@ -13,6 +13,7 @@ USAGE:
 
 FILES:  
 * a.out  -> MacOS & Linux precompiled version of calculator 
+* a.exe  -> Windows precompiled version of calculator 
 * main.c -> Main calculator code 
 * menus.txt -> Text file to show all menus 
 * text.h -> heder file containing all the menus used in Term Calc. Used to simply clean up the code.

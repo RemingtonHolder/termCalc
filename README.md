@@ -12,8 +12,6 @@ USAGE:
 
 
 FILES:  
-* a.out  -> MacOS & Linux precompiled version of calculator 
-* a.exe  -> Windows precompiled version of calculator 
 * main.c -> Main calculator code 
 * menus.txt -> Text file to show all menus 
 * text.h -> heder file containing all the menus used in Term Calc. Used to simply clean up the code.
